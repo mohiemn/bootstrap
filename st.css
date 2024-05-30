@@ -1,0 +1,11 @@
+.hero-section {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+.courses-section {
+    padding: 60px 0;
+}
+.course-card {
+    margin-bottom: 30px;
+}
